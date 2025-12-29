@@ -35,20 +35,20 @@ I do not like the current name, but I had to come with a name so it won't be " D
 
 ## FAQ.
 
-Q. Can I schedule the notification myself ? 
+Q. Can I schedule the notification myself ? \
 A. Yes, you just need to recompile the application.
 
-Q. What does it do if I miss a day ?
+Q. What does it do if I miss a day ? \
 A. I'm pretty sure I forgot to implement the drawback if you do not do it.
 
-Q. Why 7pm and 7pm for notification ? 
+Q. Why 7pm and 7pm for notification ? \
 A. Blame my friend, I made the app for her in a first place.
 
-Q. Will it be updated ?
+Q. Will it be updated ? \
 A. Yes, this is still an MVP, I will work on it to make it better.
 
-Q. Do you actively support Linux, Windows or MacOS ?
+Q. Do you actively support Linux, Windows or MacOS ? \
 A. No, I will focus on phone. This is made with dart and flutter, so it might be doable to just fork it yourself and maintain those versions.
 
-Q. Why is it ugly ?
+Q. Why is it ugly ? \
 A. I'm not a designer.
